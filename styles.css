@@ -1,0 +1,62 @@
+/* Estilos gerais */
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos do cabeçalho */
+header {
+    background-color: #ffffff;
+    color: #fff;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+/* Estilos do conteúdo principal */
+.hero {
+    text-align: left;
+    padding: 300px 0;
+    background-color: #fffafa;
+}
+
+.hero h1 {
+    font-size: 55px;
+    margin-bottom: 10px;
+}
+
+.hero p {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.hero a {
+    font-size: 30px;
+    margin-bottom: 40px;
+}
+
+/* Estilos do rodapé */
+footer {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #333;
+    color: #fff;
+}
+
+
